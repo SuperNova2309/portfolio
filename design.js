@@ -152,17 +152,4 @@ window.addEventListener('scroll', () => {
         }
     });
 });
-
-// Mobile Menu Toggle (optional - uncomment if you add a menu button to navbar)
-/*
-const menuButton = document.querySelector('.menu-button');
-const navMenu = document.querySelector('.nav-menu');
-
-if (menuButton) {
-    menuButton.addEventListener('click', () => {
-        navMenu.classList.toggle('active');
-    });
-}
-*/
-
 console.log('Portfolio website loaded successfully!');
